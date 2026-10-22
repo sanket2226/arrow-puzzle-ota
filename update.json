@@ -1,9 +1,9 @@
 {
-  "version": 7,
+  "version": 9,
   "bundleUrl": "https://raw.githubusercontent.com/sanket2226/arrow-puzzle-ota/main/index.android.bundle",
   "minAppVersion": "1.0.0",
   "minRequiredVersion": "1.0",
   "minRequiredVersionCode": 1,
-  "releaseNotes": "Base win coins 150 and double coins 300 restored",
-  "forceRestart": false
+  "releaseNotes": "Fix splash screen display duration and guaranteed level coins reward",
+  "forceRestart": true
 }
