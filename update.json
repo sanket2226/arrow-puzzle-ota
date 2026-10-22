@@ -5,5 +5,5 @@
   "minRequiredVersion": "1.0",
   "minRequiredVersionCode": 1,
   "releaseNotes": "Fix splash screen display duration and guaranteed level coins reward",
-  "forceRestart": true
+  "forceRestart": false
 }
