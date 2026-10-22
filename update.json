@@ -5,5 +5,5 @@
   "minRequiredVersion": "1.5",
   "minRequiredVersionCode": 6,
   "releaseNotes": "Compiled bytecode bundle with coins fix!",
-  "forceRestart": true
+  "forceRestart": false
 }
