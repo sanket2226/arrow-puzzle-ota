@@ -1,9 +1,9 @@
 {
-  "version": 5,
-  "bundleUrl": "https://raw.githubusercontent.com/sanket2226/arrow-puzzle/main/ota/index.android.bundle",
-  "minAppVersion": "1.5.0",
-  "minRequiredVersion": "1.5",
-  "minRequiredVersionCode": 6,
-  "releaseNotes": "Compiled bytecode bundle with coins fix!",
+  "version": 6,
+  "bundleUrl": "https://raw.githubusercontent.com/sanket2226/arrow-puzzle-ota/main/index.android.bundle",
+  "minAppVersion": "1.0.0",
+  "minRequiredVersion": "1.0",
+  "minRequiredVersionCode": 1,
+  "releaseNotes": "Stable update with coins fix and smooth launch",
   "forceRestart": false
 }
